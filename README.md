@@ -37,6 +37,3 @@ This repository contains a simple Blackjack game implemented in Python. The game
 
 Contributions to this project are welcome! Whether you're interested in adding new features, improving the user interface, or fixing bugs, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
