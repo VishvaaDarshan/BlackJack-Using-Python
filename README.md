@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple Blackjack game implemented in Python. The game follows traditional Blackjack rules, where the player competes against the dealer to achieve a hand value as close to 21 as possible without exceeding it.
+This repository contains a simple Blackjack game implemented in Python. The game follows a traditional Blackjack rules, where the player competes against the dealer to achieve a hand value as close to 21 as possible without exceeding it.
 
 ## Features
 
